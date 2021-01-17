@@ -1,0 +1,68 @@
+> Written with [StackEdit](https://stackedit.io/).
+
+
+# Encabezado 1
+##  Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
+
+Encabezado nivel 1 
+=====
+Encabezado nivel 2 
+------
+
+Para separar en párrafos tiene que haber una línea vacía en el medio.
+
+si no hay linea vacia,
+toma todo seguido. 
+
+Cursiva: *Texto en cursiva* _Texto en cursiva_ 
+Negrita: **Texto en negrita** __Texto en negrita__
+
+
+**Lista no ordenada:**
+* item 1
+* item 2
+	* subitem 1
+	* subitem 2
+
+**Lista ordenada:**
+1.	item 1
+2.	item 2
+3.	item 3
+
+Para escribir código:
+Si es una línea: `<br>`
+Si es un bloque: 
+```
+<html>
+	<body> 
+		<p> esto es un bloque </p>
+		<p> de html </p>
+	</body>
+</html>
+```
+
+>Las citas se hacen con el 'mayor que'
+
+Acá un [link a google](http://www.google.com.ar)
+
+![Logo de Wikipedia](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
+
+
+**Tablas:**
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| --------- | --------- | --------- |
+| renglón 1, columna 1 | renglón 1, columna 2 | renglón 1, columna 3|
+| renglón 2, columna 1 | renglón 2, columna 2 | renglón 2, columna 3|
+| renglón 3, columna 1 | renglón 3, columna 2 | renglón 3, columna 3|
+
+
+**Tabla con centrados:**
+| Alineado-izquierda | Centrado | Alineado-derecha |
+| :-------- | :-------: | --------: |
+| Manzanas | rojo | 5000 |
+| Plátanos | amarillo | 75 |
