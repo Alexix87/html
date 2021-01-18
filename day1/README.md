@@ -1,8 +1,11 @@
 # Día 1:
 
-* Manejo de Visual Studio Code
-* Manejo de git + github
-* Experimentar con markdown
+* Manejo de Visual Studio Code.
+    * Vista previa de Markdown.
+    * Uso de la terminal en vez de git bash.
+    * Alt + Shift + F: Identación.
+* Manejo de git + github.
+* Experimentar con markdown.
 
 ## Recursos:
 
