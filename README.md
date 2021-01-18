@@ -3,3 +3,7 @@
     * Poco de HTML.
     * Markdown.
     * Git.
+
+[Dia 2:](https://github.com/Alexix87/html/tree/master/day2)
+
+    * Etiquetas.

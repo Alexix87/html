@@ -1,0 +1,15 @@
+id: Para identificar una etiqueta de forma única.
+class: Para agrupar etiquetas con uno o más nombres.
+
+href: Para definir un URL en <a>
+
+src: Para definir un URL en <img>
+
+type: Para definir tipo de dato en un <input>
+
+autoplay: Para que <video> o <audio> se reproduzca automático
+
+disabled: Para desabilitar <button> <input> <select> por ejemplo
+
+onX: Para crear evento X en alguna etiqueta, ej: onclick
+
