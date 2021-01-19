@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+</html>
+
+<head>
+    <title>Etiquetas básicas</title>
+</head>
+
+<body>
+    <h1>Formulario:</h1>
+    <form action="/prueba">
+        <div>
+            <label for="nombre_id">Nombre: </label>
+            <input type="text" name="nombre" id="nombre_id">
+        </div>
+
+        <div>
+            <label for="edad_id">Edad: </label>
+            <input type="number" name="edad" id="edad_id">
+        </div>
+
+        <div>
+            <label for="nacionalidad_id">Nacionalidad: </label>
+            <select name="nacionalidad" id="nacionalidad_id">
+                <option value="Argentina">Argentina</option>
+                <option value="Brasil">Brasil</option>
+                <option value="Chile">Chile</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="">Genero: </label>
+            <input type="radio" name="genero" id="genero_masculino_id">
+            <label for="genero_masculino_id">masculino</label>
+            
+            <input type="radio" name="genero" id="genero_femenino_id">
+            <label for="genero_femenino_id">femenino</label>
+        </div>
+
+        <div>
+            <label for="">Lecturas:</label>
+            <input type="checkbox" name="lectura_ficcion" id="lectura_ficcion">
+            <label for="lectura_ficcion">ficcion</label>
+            
+            <input type="checkbox" name="lectura-noficcion" id="lectura_noficcion">
+            <label for="lectura_noficcion">no ficcion</label>
+
+            <input type="checkbox" name="lectura_policial" id="lectura_policial">
+            <label for="lectura_policial">policial</label>
+        </div>
+
+        <div>
+            <input type="submit" value="Enviar">
+        </div>
+
+    </form>
+</body>
+
+</html>
