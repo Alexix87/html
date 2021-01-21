@@ -11,3 +11,7 @@
 [Dia 3:](https://github.com/Alexix87/html/tree/master/day3)
 
 * Etiquetas para formularios (inputs varios)
+
+[Dia 4:](https://github.com/Alexix87/html/tree/master/day4)
+
+* Etiquetas de semántica en HTML5
